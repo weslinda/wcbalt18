@@ -1077,13 +1077,13 @@ pre code {
 
 @media (min-width:37.5em) {
 	.site-header .site-branding {
-		padding: 3rem 2rem;
+		padding: 1.5rem 3rem 22rem;
 	}
 }
 
 @media (min-width:48em) {
 	.site-header .site-branding {
-		padding: 4.5rem 3rem;
+		padding: 1.5rem 3rem 22rem;
 	}
 }
 
@@ -1093,7 +1093,7 @@ pre code {
 
 @media (min-width:37.5em) {
 	.home .site-header .site-branding {
-		padding: 7rem 2rem;
+		padding: 1.5rem 3rem 22rem;
 	}
 }
 
